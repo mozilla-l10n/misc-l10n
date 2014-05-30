@@ -3,35 +3,35 @@
 
 # This message is displayed when a full installer has been downloaded and is ready to apply.
 ;Free upgrade: a new, faster Firefox is already downloaded and ready for you to use!
-Mise à niveau gratuite&nbsp;: un nouveau Firefox plus rapide a déjà été téléchargé et est prêt à être utilisé dés maintenant&nbsp;!
+Mise à jour gratuite : une nouvelle version plus rapide de Firefox a été téléchargée et est prête à être utilisée.
 
 
 # This message is displayed when a stub installer has been downloaded and is ready to apply.
 ;Free upgrade: a new, faster Firefox is ready for you to use!
-Free upgrade: a new, faster Firefox is ready for you to use!
+Mise à jour gratuite : une nouvelle version de Firefox, bien plus rapide, est prête à être utilisée.
 
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
 ;Your version of Firefox is out of date, which can put your computer and information at risk. A new, secure Firefox is ready for you to use for free!
-Votre version de Firefox est obsolète, ce qui peut mettre votre ordianteur et vos données, en danger. Un nouveau et sûr Firefox est prêt à être utiliser gratuitement&nbsp;!
+Votre version de Firefox est obsolète, ce qui représente un risque pour votre ordinateur et vos données. Une nouvelle version plus sécurisée de Firefox est prête à être utilisée gratuitement.
 
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
 ;Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
-Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
+Votre version de Firefox est obsolète, ce qui peut être la source de ralentissements. Mais pas d'inquiétude, une nouvelle version plus rapide de Firefox est prête à être utilisée.
 
 
 # Full installer button: keep it short
 ;Start using it right now!
-Commencez à l'utiliser dès maintenant&nbsp;!
+L'utiliser tout de suite
 
 
 # Stub installer button: keep it short
 ;Get the new version
-Get the new version
+Installer la nouvelle version
 
 
 # Button accesskey
 ;i
-i
+i {ok}
 
