@@ -3,22 +3,22 @@
 
 # This message is displayed when a full installer has been downloaded and is ready to apply.
 ;Free upgrade: a new, faster Firefox is already downloaded and ready for you to use!
-免費升級: 全新、更快的 Firefox 已經下載完成，準備好供您使用！
+全新、更快的 Firefox 已經下載完成，快來升級！
 
 
 # This message is displayed when a stub installer has been downloaded and is ready to apply.
 ;Free upgrade: a new, faster Firefox is ready for you to use!
-Free upgrade: a new, faster Firefox is ready for you to use!
+更新，更安全的 Firefox 已經推出，快來升級！
 
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
 ;Your version of Firefox is out of date, which can put your computer and information at risk. A new, secure Firefox is ready for you to use for free!
-您的 Firefox 版本已經過時了，可能會讓您的電腦與資料承受風險。全新、更安全的 Firefox 已經準備好供您使用！
+您的 Firefox 版本已經過時了，可能會讓您的電腦與資料承受風險。全新、更安全的 Firefox 已經推出！
 
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
 ;Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
-Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
+您的 Firefox 版本已經過時了，會執行得比較慢。但別擔心，全新的 Firefox 已經推出，快來升級！
 
 
 # Full installer button: keep it short
@@ -28,10 +28,10 @@ Your version of Firefox is out of date, which makes it run slower. But don't wor
 
 # Stub installer button: keep it short
 ;Get the new version
-Get the new version
+下載新版本
 
 
 # Button accesskey
 ;i
-i
+i {ok}
 
