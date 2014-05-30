@@ -8,7 +8,7 @@ Aggiornamento gratuito: una nuova versione di Firefox, ancora più veloce, è gi
 
 # This message is displayed when a stub installer has been downloaded and is ready to apply.
 ;Free upgrade: a new, faster Firefox is ready for you to use!
-Free upgrade: a new, faster Firefox is ready for you to use!
+Aggiornamento gratuito: una nuova versione di Firefox, ancora più veloce, è pronta per l’uso.
 
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
@@ -18,7 +18,7 @@ Questa versione di Firefox è obsoleta e potrebbe mettere a rischio la sicurezza
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
 ;Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
-Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
+Questa versione di Firefox è obsoleta e potrebbe risultare lenta. Non preoccuparti: una nuova versione di Firefox, molto più veloce, è pronta per l’uso.
 
 
 # Full installer button: keep it short
@@ -28,10 +28,10 @@ Inizia subito a usarla
 
 # Stub installer button: keep it short
 ;Get the new version
-Get the new version
+Scarica la nuova versione
 
 
 # Button accesskey
 ;i
-i
+n
 
