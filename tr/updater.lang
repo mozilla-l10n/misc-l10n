@@ -3,35 +3,35 @@
 
 # This message is displayed when a full installer has been downloaded and is ready to apply.
 ;Free upgrade: a new, faster Firefox is already downloaded and ready for you to use!
-Free upgrade: a new, faster Firefox is already downloaded and ready for you to use!
+Ücretsiz yükseltme: Daha yeni, daha hızlı Firefox indirildi ve kullanımınıza hazır!
 
 
 # This message is displayed when a stub installer has been downloaded and is ready to apply.
 ;Free upgrade: a new, faster Firefox is ready for you to use!
-Free upgrade: a new, faster Firefox is ready for you to use!
+Ücretsiz yükseltme: Daha yeni ve daha hızlı bir Firefox kullanımınıza hazır!
 
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
 ;Your version of Firefox is out of date, which can put your computer and information at risk. A new, secure Firefox is ready for you to use for free!
-Your version of Firefox is out of date, which can put your computer and information at risk. A new, secure Firefox is ready for you to use for free!
+Firefox sürümünüz eskimiş. Kullandığınız sürüm, bilgisayarınızı ve bilgilerinizi riske atabilir. Daha yeni ve güvenli Firefox'u ücretsiz olarak kullanabilirsiniz!
 
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
 ;Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
-Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
+Firefox sürümümüz eskidiği için yavaş çalışıyor. Ama endişelenmiş, daha yeni ve daha hızlı bir Firefox kullanımınıza hazır!
 
 
 # Full installer button: keep it short
 ;Start using it right now!
-Start using it right now!
+Hemen kullanmaya başla!
 
 
 # Stub installer button: keep it short
 ;Get the new version
-Get the new version
+Yeni sürümü indir
 
 
 # Button accesskey
 ;i
-i
+b
 
