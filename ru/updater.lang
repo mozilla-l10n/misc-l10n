@@ -3,35 +3,35 @@
 
 # This message is displayed when a full installer has been downloaded and is ready to apply.
 ;Free upgrade: a new, faster Firefox is already downloaded and ready for you to use!
-Free upgrade: a new, faster Firefox is already downloaded and ready for you to use!
+Бесплатное обновление: новый, более быстрый Firefox уже загружен и готов к работе!
 
 
 # This message is displayed when a stub installer has been downloaded and is ready to apply.
 ;Free upgrade: a new, faster Firefox is ready for you to use!
-Free upgrade: a new, faster Firefox is ready for you to use!
+Бесплатное обновление: новый, более быстрый Firefox готов к работе!
 
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
 ;Your version of Firefox is out of date, which can put your computer and information at risk. A new, secure Firefox is ready for you to use for free!
-Your version of Firefox is out of date, which can put your computer and information at risk. A new, secure Firefox is ready for you to use for free!
+Ваша версия Firefox устарела, что может подвергнуть риску ваш компьютер и информацию. Новый, безопасный Firefox готов к работе на вас - бесплатно!
 
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
 ;Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
-Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
+Ваша версия Firefox устарела, что приводит к замедлению его работы. Но не волнуйтесь; новый, более быстрый Firefox готов к работе!
 
 
 # Full installer button: keep it short
 ;Start using it right now!
-Start using it right now!
+Начать его использовать!
 
 
 # Stub installer button: keep it short
 ;Get the new version
-Get the new version
+Получить новую версию
 
 
 # Button accesskey
 ;i
-i
+о
 
