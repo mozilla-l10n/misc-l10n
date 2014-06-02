@@ -3,35 +3,35 @@
 
 # This message is displayed when a full installer has been downloaded and is ready to apply.
 ;Free upgrade: a new, faster Firefox is already downloaded and ready for you to use!
-Free upgrade: a new, faster Firefox is already downloaded and ready for you to use!
+Ingyenes frissítés: az új, gyorsabb Firefox már letöltődött, és készen áll a használatra!
 
 
 # This message is displayed when a stub installer has been downloaded and is ready to apply.
 ;Free upgrade: a new, faster Firefox is ready for you to use!
-Free upgrade: a new, faster Firefox is ready for you to use!
+Ingyenes frissítés: az új, gyorsabb Firefox készen áll a használatra!
 
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
 ;Your version of Firefox is out of date, which can put your computer and information at risk. A new, secure Firefox is ready for you to use for free!
-Your version of Firefox is out of date, which can put your computer and information at risk. A new, secure Firefox is ready for you to use for free!
+A Firefox ezen verziója elavult, ami veszélybe sodorhatja számítógépét és adatait. Az új, biztonságos és ingyenes Firefox már használatra készen áll!
 
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
 ;Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
-Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
+A Firefox ezen verziója elavult, emiatt lassabban működik. De ne aggódjon, az új, gyorsabb Firefox használatra készn áll!
 
 
 # Full installer button: keep it short
 ;Start using it right now!
-Start using it right now!
+Kezdje el használni most!
 
 
 # Stub installer button: keep it short
 ;Get the new version
-Get the new version
+Új verzió beszerzése
 
 
 # Button accesskey
 ;i
-i
+k
 
