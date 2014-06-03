@@ -18,7 +18,7 @@ A Firefox ezen verziója elavult, ami veszélybe sodorhatja számítógépét é
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
 ;Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
-A Firefox ezen verziója elavult, emiatt lassabban működik. De ne aggódjon, az új, gyorsabb Firefox használatra készn áll!
+A Firefox ezen verziója elavult, emiatt lassabban működik. De ne aggódjon, az új, gyorsabb Firefox használatra készen áll!
 
 
 # Full installer button: keep it short
@@ -28,10 +28,10 @@ Kezdje el használni most!
 
 # Stub installer button: keep it short
 ;Get the new version
-Új verzió beszerzése
+Új verzió letöltése
 
 
 # Button accesskey
 ;i
-k
+z
 
