@@ -3,35 +3,35 @@
 
 # This message is displayed when a full installer has been downloaded and is ready to apply.
 ;Free upgrade: a new, faster Firefox is already downloaded and ready for you to use!
-Free upgrade: a new, faster Firefox is already downloaded and ready for you to use!
+Δωρεάν αναβάθμιση: έχει γίνει λήψη ενός νέου, πιο γρήγορου Firefox και είναι έτοιμος προς χρήση!
 
 
 # This message is displayed when a stub installer has been downloaded and is ready to apply.
 ;Free upgrade: a new, faster Firefox is ready for you to use!
-Free upgrade: a new, faster Firefox is ready for you to use!
+Δωρεάν αναβάθμιση: ένας νέος, πιο γρήγορος Firefox είναι έτοιμος προς χρήση!
 
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
 ;Your version of Firefox is out of date, which can put your computer and information at risk. A new, secure Firefox is ready for you to use for free!
-Your version of Firefox is out of date, which can put your computer and information at risk. A new, secure Firefox is ready for you to use for free!
+Η έκδοση Firefox που χρησιμοποιείτε είναι παρωχημένη και μπορεί να βάλει τον υπολογιστή και τις πληροφορίες σας σε κίνδυνο. Ένας νέος, πιο ασφαλής Firefox είναι έτοιμος προς χρήση!
 
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
 ;Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
-Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
+Χρησιμοποιείτε μια παλαιότερη, πιο αργή έκδοση του Firefox. Αλλα μήν ανησυχείτε: ένας νέος, πιο γρήγορος Firefox είναι έτοιμος προς χρήση!
 
 
 # Full installer button: keep it short
 ;Start using it right now!
-Start using it right now!
+Χρησιμοποιήστε τον τώρα!
 
 
 # Stub installer button: keep it short
 ;Get the new version
-Get the new version
+Αποκτήστε τη νέα έκδοση
 
 
 # Button accesskey
 ;i
-i
+τ
 
