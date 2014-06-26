@@ -3,35 +3,35 @@
 
 # This message is displayed when a full installer has been downloaded and is ready to apply.
 ;Free upgrade: a new, faster Firefox is already downloaded and ready for you to use!
-Free upgrade: a new, faster Firefox is already downloaded and ready for you to use!
+Aktualizace zdarma: nový rychlejší Firefox je již stažený a pro vás připraven k použití!
 
 
 # This message is displayed when a stub installer has been downloaded and is ready to apply.
 ;Free upgrade: a new, faster Firefox is ready for you to use!
-Free upgrade: a new, faster Firefox is ready for you to use!
+Aktualizace zdarma: nový rychlejší Firefox je pro vás připraven k použití!
 
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
 ;Your version of Firefox is out of date, which can put your computer and information at risk. A new, secure Firefox is ready for you to use for free!
-Your version of Firefox is out of date, which can put your computer and information at risk. A new, secure Firefox is ready for you to use for free!
+Používáte zastaralou verzi Firefoxu, což může ohrozit váš počítač a vaše informace. Nový bezpečný Firefoxu je pro vás připraven k použití zcela zdarma!
 
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
 ;Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
-Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
+Používáte zastaralou a pomalejší verzi Firefoxu. Ale nebojte, nový a rychlejší Firefox je pro vás připraven k použití!
 
 
 # Full installer button: keep it short
 ;Start using it right now!
-Start using it right now!
+Začněte jej používat hned!
 
 
 # Stub installer button: keep it short
 ;Get the new version
-Get the new version
+Získejte novou verzi
 
 
 # Button accesskey
 ;i
-i
+i {ok}
 
