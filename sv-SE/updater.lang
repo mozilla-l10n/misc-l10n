@@ -3,35 +3,35 @@
 
 # This message is displayed when a full installer has been downloaded and is ready to apply.
 ;Free upgrade: a new, faster Firefox is already downloaded and ready for you to use!
-Free upgrade: a new, faster Firefox is already downloaded and ready for you to use!
+Gratis uppgradering: en ny, snabbare Firefox har redan hämtats och är redo att användas!
 
 
 # This message is displayed when a stub installer has been downloaded and is ready to apply.
 ;Free upgrade: a new, faster Firefox is ready for you to use!
-Free upgrade: a new, faster Firefox is ready for you to use!
+Gratis uppgradering: en ny, snabbare Firefox är tillgänglig och redo för användning!
 
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
 ;Your version of Firefox is out of date, which can put your computer and information at risk. A new, secure Firefox is ready for you to use for free!
-Your version of Firefox is out of date, which can put your computer and information at risk. A new, secure Firefox is ready for you to use for free!
+Din version av Firefox är inaktuell, vilket kan äventyra säkerheten för din dator och informationen på den. En ny, säker Firefox är tillgänglig och redo för användning, helt gratis!
 
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
 ;Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
-Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
+Din version av Firefox är inaktuell, vilket gör att den körs långsammare. Men oroa dig inte; en ny, snabbare Firefox är tillgänglig och redo för användning!
 
 
 # Full installer button: keep it short
 ;Start using it right now!
-Start using it right now!
+Börja använda den på en gång!
 
 
 # Stub installer button: keep it short
 ;Get the new version
-Get the new version
+Hämta den nya versionen
 
 
 # Button accesskey
 ;i
-i
+a
 
