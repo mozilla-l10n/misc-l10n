@@ -3,12 +3,12 @@
 
 # This message is displayed when a full installer has been downloaded and is ready to apply.
 ;Free upgrade: a new, faster Firefox is already downloaded and ready for you to use!
-Aktualizace zdarma: nový rychlejší Firefox je již stažený a pro vás připraven k použití!
+Aktualizace zdarma: nový a rychlejší Firefox byl stažen a je připraven k použití!
 
 
 # This message is displayed when a stub installer has been downloaded and is ready to apply.
 ;Free upgrade: a new, faster Firefox is ready for you to use!
-Aktualizace zdarma: nový rychlejší Firefox je pro vás připraven k použití!
+Aktualizace zdarma: nový a rychlejší Firefox je připraven k použití!
 
 
 # If the user doesn't upgrade after a week, this alternate message will be used instead.
