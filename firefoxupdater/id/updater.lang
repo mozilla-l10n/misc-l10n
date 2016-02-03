@@ -1,0 +1,37 @@
+## NOTE: strings for Firefox Updater Hotfix, reference bug 1014535
+
+
+# This message is displayed when a full installer has been downloaded and is ready to apply.
+;Free upgrade: a new, faster Firefox is already downloaded and ready for you to use!
+Versi baru gratis: Firefox baru dan lebih cepat, telah diunduh dan siap digunakan!
+
+
+# This message is displayed when a stub installer has been downloaded and is ready to apply.
+;Free upgrade: a new, faster Firefox is ready for you to use!
+Versi baru gratis: Firefox baru dan lebih cepat kini siap digunakan!
+
+
+# If the user doesn't upgrade after a week, this alternate message will be used instead.
+;Your version of Firefox is out of date, which can put your computer and information at risk. A new, secure Firefox is ready for you to use for free!
+Versi Firefox Anda sudah usang, komputer serta informasi Anda rentan atas masalah keamanan. Firefox versi baru dan lebih cepat kini siap digunakan, gratis!
+
+
+# If the user doesn't upgrade after a week, this alternate message will be used instead.
+;Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
+Versi Firefox Anda sudah usang, juga lambat. Jangan khawatir, Firefox versi baru dan lebih cepat kini siap digunakan!
+
+
+# Full installer button: keep it short
+;Start using it right now!
+Mulai gunakan sekarang juga!
+
+
+# Stub installer button: keep it short
+;Get the new version
+Dapatkan versi baru
+
+
+# Button accesskey
+;i
+i {ok}
+

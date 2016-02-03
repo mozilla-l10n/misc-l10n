@@ -1,0 +1,37 @@
+## NOTE: strings for Firefox Updater Hotfix, reference bug 1014535
+
+
+# This message is displayed when a full installer has been downloaded and is ready to apply.
+;Free upgrade: a new, faster Firefox is already downloaded and ready for you to use!
+ダウンロードと更新準備ができました。Firefox を、より高速に動作する最新版に更新しましょう。
+
+
+# This message is displayed when a stub installer has been downloaded and is ready to apply.
+;Free upgrade: a new, faster Firefox is ready for you to use!
+より高速に動作する、最新の Firefox に更新する。
+
+
+# If the user doesn't upgrade after a week, this alternate message will be used instead.
+;Your version of Firefox is out of date, which can put your computer and information at risk. A new, secure Firefox is ready for you to use for free!
+お使いの Firefox は最新ではないようです。コンピュータと、あなたの情報の安全を保つためにも、いますぐ Firefox を更新してください！
+
+
+# If the user doesn't upgrade after a week, this alternate message will be used instead.
+;Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
+お使いの Firefox は最新ではないようです。新しい Firefox はより高速に動作します。いますぐ更新してください！
+
+
+# Full installer button: keep it short
+;Start using it right now!
+今すぐ使う
+
+
+# Stub installer button: keep it short
+;Get the new version
+最新バージョンへ更新
+
+
+# Button accesskey
+;i
+i {ok}
+

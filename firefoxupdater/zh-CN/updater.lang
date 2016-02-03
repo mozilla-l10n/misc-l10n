@@ -1,0 +1,37 @@
+## NOTE: strings for Firefox Updater Hotfix, reference bug 1014535
+
+
+# This message is displayed when a full installer has been downloaded and is ready to apply.
+;Free upgrade: a new, faster Firefox is already downloaded and ready for you to use!
+免费升级：速度更快的新版 Firefox 已经下载完毕，随时可以使用！
+
+
+# This message is displayed when a stub installer has been downloaded and is ready to apply.
+;Free upgrade: a new, faster Firefox is ready for you to use!
+免费升级：速度更快的新版 Firefox 已经准备就绪！
+
+
+# If the user doesn't upgrade after a week, this alternate message will be used instead.
+;Your version of Firefox is out of date, which can put your computer and information at risk. A new, secure Firefox is ready for you to use for free!
+您的 Firefox 的版本已经过时，可能使您的电脑和信息资料面临安全风险。更安全的新版 Firefox 已经准备就绪！
+
+
+# If the user doesn't upgrade after a week, this alternate message will be used instead.
+;Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
+您的 Firefox 的版本已经过时，可能导致运行速度缓慢。但不用担心，速度更快的新版 Firefox 已经准备就绪！
+
+
+# Full installer button: keep it short
+;Start using it right now!
+立刻开始使用！
+
+
+# Stub installer button: keep it short
+;Get the new version
+获得新版本
+
+
+# Button accesskey
+;i
+i {ok}
+

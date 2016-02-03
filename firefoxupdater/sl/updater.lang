@@ -1,0 +1,37 @@
+## NOTE: strings for Firefox Updater Hotfix, reference bug 1014535
+
+
+# This message is displayed when a full installer has been downloaded and is ready to apply.
+;Free upgrade: a new, faster Firefox is already downloaded and ready for you to use!
+Brezplačna nadgradnja: nov, hitrejši Firefox je že prenesen in pripravljen na uporabo!
+
+
+# This message is displayed when a stub installer has been downloaded and is ready to apply.
+;Free upgrade: a new, faster Firefox is ready for you to use!
+Brezplačna nadgradnja: nov, hitrejši Firefox je pripravljen na uporabo!
+
+
+# If the user doesn't upgrade after a week, this alternate message will be used instead.
+;Your version of Firefox is out of date, which can put your computer and information at risk. A new, secure Firefox is ready for you to use for free!
+Vaša različica Firefoxa je zastarela, kar lahko ogroža vaš računalnik in vaše podatke. Nova, varna različica Firefoxa je že na voljo za brezplačno uporabo!
+
+
+# If the user doesn't upgrade after a week, this alternate message will be used instead.
+;Your version of Firefox is out of date, which makes it run slower. But don't worry; a new, faster Firefox is ready for you to use!
+Vaša različica Firefoxa je zastarela, zato deluje počasneje. A nič zato, kajti nov, hitrejši Firefox je pripravljen na uporabo!
+
+
+# Full installer button: keep it short
+;Start using it right now!
+Začni z uporabo!
+
+
+# Stub installer button: keep it short
+;Get the new version
+Prenesi novo različico
+
+
+# Button accesskey
+;i
+i {ok}
+
